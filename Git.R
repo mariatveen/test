@@ -1,6 +1,7 @@
 library(ggplot2) jjj #lålå #j #nej
 
 #ej
-#Maria
+#MariWjja
 #jojo
 ##shit du er go ##
+ss
