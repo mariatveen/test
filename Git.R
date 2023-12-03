@@ -1,4 +1,4 @@
-library(ggplot2) jjj #lålå #jo
+library(ggplot2) jjj #lålå #j #nej
 
 #ej
 #Maria
