@@ -3,6 +3,5 @@ library(ggplot2) jjj #lålå #j #nej
 #ej
 #MariWjja
 #jojo
-#shit djjjju er go 
-##shit du fffer go ##
-jk
+#shit d+ju er go 
+##shit du f,er go #
